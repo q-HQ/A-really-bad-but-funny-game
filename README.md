@@ -3,7 +3,7 @@
 
 # REQUIREMENTS
 - version: 3.x.x
-- HAVE NODE.JS INSTALLED. https://node.js.org
+- HAVE NODE.JS INSTALLED. https://nodejs.org
 
 # STEPS:
 - remove all files from a really bad but funny game directory.
